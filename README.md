@@ -1,16 +1,15 @@
-## Hi there 👋
+# Gianluca Mariani
 
-<!--
-**Gianluca-Mariani/Gianluca-Mariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD researcher at ETH Zürich working on **mechanical computing**: computational systems that encode information in the stable states of nonlinear mechanical structures and manipulate those states to perform computation.
 
-Here are some ideas to get you started:
+My research is primarily **code, simulation, and theory driven**, spanning numerical methods, optimization, dynamical systems, and scientific software. I am particularly interested in **high-performance computing, compilers, and systems software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+
+- **[Foundry](https://github.com/Gianluca-Mariani/Foundry)** — A complete software toolchain for the Hack platform, including an assembler, VM translator, and compiler. Built in Python with modular architecture, testing, packaging, and CI.
+- **[HomotopyContinuation.jl](https://github.com/Gianluca-Mariani/HomotopyContinuation.jl)** — Extended a symbolic computation framework with support for `exp`, `tan`, `asin`, `acos`, `sinh`, `cosh`, and `tanh`; [PR #703](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl/pull/703).
+- **[Spreadsheet](https://github.com/Gianluca-Mariani/Spreadsheet)** — Java spreadsheet application with formula evaluation, dependency tracking, cycle detection, and both GUI and CLI interfaces.
+
+### Interests
+
+`Compilers` · `HPC` · `Scientific Computing` · `Numerical Methods` · `Systems Software` · `Performance Engineering`
